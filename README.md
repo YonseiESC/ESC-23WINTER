@@ -1,7 +1,7 @@
 # ESC-23WINTER
 Public Repository for ESC WINTER 2023 activities
 
-![KakaoTalk_20230103_165425889](https://user-images.githubusercontent.com/56993675/210739941-2714df30-92ed-4cfc-a76f-2f075ccacf47.jpg
+![KakaoTalk_20230103_165425889](https://user-images.githubusercontent.com/56993675/210739941-2714df30-92ed-4cfc-a76f-2f075ccacf47.jpg)
 
 ## Plan
 
