@@ -18,9 +18,9 @@ Public Repository for ESC WINTER 2023 activities
 
 
 ## 정규세션 교재
-주교재: Convex Optimization – Boyd and Vandenberghe
-부교재: Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators
-부교재: Quantitative Economics with Julia 
+- Convex Optimization – Boyd and Vandenberghe
+- Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators
+- Quantitative Economics with Julia 
 
 ## 세션 영상 유튜브 링크
 
