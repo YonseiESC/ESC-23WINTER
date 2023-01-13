@@ -22,4 +22,4 @@
 - 부교재: Quantitative Economics with Julia 
 
 ## 세션 영상 유튜브 링크
-
+- 230112 WINTER week1 : Convex Sets - https://youtu.be/od5V0AFUqxY
