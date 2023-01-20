@@ -8,14 +8,14 @@
 |:--:|:--------------------------:|:------------------------|
 |week 0<br>(1/5)| ESC OT, Introduction (Boyd ch1)| |
 |week 1<br>(1/12) | Convex sets (Boyd ch2) <br/> 발제자: 김두은|1차 친바(1/14)|
-|week 2<br>(1/19) | Convex functions (Boyd ch3 (3.4 제외)) <br/> 발제자: 전상후, 김종민| |
+|week 2<br>(1/19) | Convex functions (Boyd ch3 (3.4 제외)) <br/> 발제자: 김종민, 전상후 | |
 |week 3<br>(2/2) | Convex optimization problems (Boyd ch4 (4.5 제외)) <br/> 발제자: 윤현석, 김민주, 임승현 |연사 특강(2/4)|
 |week 4<br>(2/9) | Duality 1 (Boyd ch5.1~5.5) <br/> 발제자: 박정현, 최영준 | |
 |week 5<br>(2/16) | Duality 2 (Boyd ch5.7~5.9) <br/> 발제자: 김태완, 이종현 |Julia practice 1(2/18)|
 
 ## 자율스터디
 - 선형대수(윤이경)
-- 수리통계학(박정현)
+- 수리통계학1(박정현)
 - 자료구조(최가윤)
 - 정보이론(고정민)
 
