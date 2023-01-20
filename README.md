@@ -16,6 +16,8 @@
 ## 자율스터디
 - 선형대수(윤이경)
 - 수리통계학(박정현)
+- 자료구조(최가윤)
+- 정보이론(고정민)
 
 
 ## 정규세션 교재
@@ -25,3 +27,4 @@
 
 ## 세션 영상 유튜브 링크
 - 230112 WINTER week1 : Convex Sets - https://youtu.be/od5V0AFUqxY
+- 230119 WINTER week2 : Convex Sets - https://youtu.be/KPz9PnjSWqk
