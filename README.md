@@ -27,4 +27,4 @@
 
 ## 세션 영상 유튜브 링크
 - 230112 WINTER week1 : Convex Sets - https://youtu.be/od5V0AFUqxY
-- 230119 WINTER week2 : Convex Sets - https://youtu.be/KPz9PnjSWqk
+- 230119 WINTER week2 : Convex Functions - https://youtu.be/KPz9PnjSWqk
