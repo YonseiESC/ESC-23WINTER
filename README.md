@@ -30,4 +30,4 @@
 - 230119 WINTER week2 : Convex Functions - https://youtu.be/KPz9PnjSWqk
 - 230202 WINTER week3 : Convex optimization problems - https://youtu.be/UBJJxRFTOq0
 - 230209 WINTER week4 : Duality1 - https://youtu.be/UrauoDzjZZA
-- 230216 WINTER week5 : Duality2 -
+- 230216 WINTER week5 : Duality2 - https://youtu.be/OCj7zwwfe7s
