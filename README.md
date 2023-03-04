@@ -5,7 +5,7 @@
 ## Plan
 
 |week|Main Session(Optimization for Machine Learning)<br>(every Thursday 19:00~21:00)|Special Session<br>(Saturday 15:00~17:00)|
-|:--:|:--------------------------:|:------------------------|
+|:--:|:--------------------------:|:------------------------:|
 |week 0<br>(1/5)| ESC OT, Introduction (Boyd ch1)| |
 |week 1<br>(1/12) | Convex sets (Boyd ch2) <br/> 발제자: 김두은|1차 친바(1/14)|
 |week 2<br>(1/19) | Convex functions (Boyd ch3 (3.4 제외)) <br/> 발제자: 김종민, 전상후 | |
