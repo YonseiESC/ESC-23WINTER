@@ -19,6 +19,9 @@
 - 자료구조(최가윤)
 - 정보이론(고정민)
 
+### 정보이론 스터디 영상 유튜브 링크
+- 230205 WINTER week1 : https://youtu.be/de2td2MQ4ac
+- 230212 WINTER week2 : https://youtu.be/TDlwdo8FJZk
 
 ## 정규세션 교재
 - 주교재: Convex Optimization – Boyd and Vandenberghe
